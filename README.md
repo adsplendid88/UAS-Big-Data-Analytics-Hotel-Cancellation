@@ -4,7 +4,7 @@
 **Nama:** Adina Connie  
 **NIM:** 825230062  
 **Program Studi:** Sistem Informasi  
-**Mata Kuliah:** Big Data Analytics  
+**Mata Kuliah:** Big Data 
 
 ---
 
